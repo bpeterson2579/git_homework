@@ -5,5 +5,3 @@ The best way to truly learn something is to listen about it, write it down, and 
 2. I am going to try to be more proactive with my work and stay on top of it
 
 Shoutout to my mom, who has been a positive presence always
-
-Git is so much fun to use.
